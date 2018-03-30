@@ -1,0 +1,17 @@
+Tienda Angular:
+
+1- Correr en la terminar el proyecto
+2- Acceder al Localhost:4200
+
+Usuario: luis@email.com
+
+contraseña: 12345
+
+Tienda React:
+
+1- Correr en la terminar el proyecto
+2- Acceder al Localhost:8080
+
+Usuario: luis@email.com
+
+contraseña: 12345
